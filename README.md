@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently mastering Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning
 
-- 📫 You can reach me on my email id moindalvs@gmail.com
+- 📫 You can reach me on my email id sandipmohane001@gmail.com
 
 ## `Projects:`
 ### Forecasting $CO_2$ Emissions Deployment [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
@@ -91,4 +91,4 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
             letter-spacing:0.1px;
             padding: 0.1em;">
 
-**<h2>♡ Thank you for taking the time ♡**
+**<h2>♡ Thank you for visit the profile  ♡**
