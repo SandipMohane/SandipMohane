@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crayondata.com%2F17-white-papers-on-data-science%2F&psig=AOvVaw1SFWDdtRipHO8ctnNRwTou&ust=1669097458679000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODJ-NrOvvsCFQAAAAAdAAAAABAM.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Sandip Mohane </h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
@@ -57,9 +57,6 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 - [Time_Series_Forecasting article](https://github.com/MoinDalvs/Time_Series_Forecasting_From_Scratch/blob/main/README.md) ✍️
 - [Gradient_Boosting_Algorithms article](https://github.com/MoinDalvs/Gradient_Boosting_Algorithms_From_Scratch/blob/main/README.md) :books:
 - [Survival_Analysis article](https://github.com/MoinDalvs/Survival_Analysis_From_Scratch/blob/main/README.md) ✍️
-
-## `📈 GitHub Activity Graph:`
-[![Moin Dalvs GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MoinDalvs&&theme=react-dark)](https://github.com/MoinDalvs)
 
 ## `Github Status:` 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MoinDalvs&label=Profile%20views&color=0e75b6&style=circle" alt="MoinDalvs" width="16%" /> </p>
