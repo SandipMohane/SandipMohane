@@ -44,11 +44,8 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Connect with me:`
 <p align="left">
-<a href="https://www.linkedin.com/in/moin-dalvi-277b0214a" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="MoinDalvs" height="50" width="50" /></a>
-<a href="https://www.kaggle.com/moindalvi" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="MoinDalvs" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCN7xdRsVxEaaH5H0f3eNNmg" target="blank"><img align="center" src="https://img.icons8.com/color/344/youtube-play.png" alt="MoinDalvs" height="50" width="50" /></a>
-<a href="https://twitter.com/DalvsHubot" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
-<a href="mailto:moindalvs@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+
+<a href="mailto:sandipmohane001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
@@ -91,4 +88,4 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
             letter-spacing:0.1px;
             padding: 0.1em;">
 
-**<h2>♡ Thank you for visit the profile  ♡**
+**<h2>♡ **Thank you for visit the profile**  ♡**
