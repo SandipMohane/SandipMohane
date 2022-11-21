@@ -17,12 +17,6 @@
 
 - 📫 You can reach me on my email id sandipmohane001@gmail.com
 
-## `Projects:`
-### Forecasting $CO_2$ Emissions Deployment [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-co2-emission-forecasting-final-github-backup-vrz2x6.streamlitapp.com/)
-### Resume Screening and Parser [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-upload-containter-resume-classification-kflzeg.streamlitapp.com/)
-### Resume Classification [![Open in Streamlit](http://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moindalvs-resume-classification-trail-resume-szy81n.streamlitapp.com/)
-
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
