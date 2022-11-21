@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+![Linkedin_Cover_-_Data_Scientist_py4mog](https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crayondata.com%2F17-white-papers-on-data-science%2F&psig=AOvVaw1SFWDdtRipHO8ctnNRwTou&ust=1669097458679000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCODJ-NrOvvsCFQAAAAAdAAAAABAM.jpg)
 
 <h1 align="center">Hi 👋, I'm Sandip Mohane </h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
